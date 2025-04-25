@@ -55,7 +55,15 @@
 
 ## 📷 Screenshots
 
-_Add screenshots here by uploading them in the repo and pasting the links below_
+## 📷 Screenshots
+
+![Home page](https://raw.githubusercontent.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/main/Screenshots/ss-1.png)
+
+![Meeting-Setup](https://raw.githubusercontent.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/main/Screenshots/ss-2.png)
+
+![Meeting-Room](https://raw.githubusercontent.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/main/Screenshots/ss-3.png)
+
+![Meeting-Room](https://raw.githubusercontent.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/main/Screenshots/ss-4.png)
 
 ---
 
