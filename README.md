@@ -55,14 +55,16 @@
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
+### Home Page  
 ![Home page](https://raw.githubusercontent.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/main/Screenshots/ss-1.png)
 
+### Meeting-Setup 
 ![Meeting-Setup](https://raw.githubusercontent.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/main/Screenshots/ss-2.png)
 
+### Meeting-Room 
 ![Meeting-Room](https://raw.githubusercontent.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/main/Screenshots/ss-3.png)
 
+### Meeting-Room 
 ![Meeting-Room](https://raw.githubusercontent.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/main/Screenshots/ss-4.png)
 
 ---
