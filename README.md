@@ -59,7 +59,7 @@ _Add screenshots here by uploading them in the repo and pasting the links below_
 
 ---
 
-## 📁 How to Run the Project (Optional)
+## 📁 How to Run the Project
 
 ```bash
 # Install dependencies
