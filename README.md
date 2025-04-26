@@ -47,7 +47,7 @@ The project is deployed [![Live Demo](https://img.shields.io/badge/View-brightgr
 
 ## 🚀 Features
 
-- ✅ Real-time collaborative code editor (Monaco Editor)
+- ✅ Working code editor (Monaco Editor)
 - ✅ Video/audio interview using Stream.io
 - ✅ Authentication & user session with Clerk
 - ✅ Live chat and question management
