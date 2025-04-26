@@ -17,7 +17,7 @@
 ## 🎓 Mentors
 
 - **Faculty Mentor:** Mr. Amit  
-- **Industry Mentor:** Ms. Manshi Parihar  
+- **Industry Mentor:** Ms. Mansi Parihar  
 
 ---
 ## Deployment
