@@ -20,7 +20,9 @@
 - **Industry Mentor:** Ms. Manshi Parihar  
 
 ---
-[![Live Demo](https://img.shields.io/badge/View-Project-brightgreen)](https://2nd-year-project-9w3s.vercel.app/)
+## Deployment
+
+The project is deployed [![Live Demo](https://img.shields.io/badge/View-Project-brightgreen)](https://2nd-year-project-9w3s.vercel.app/)
 
 
 ## 🛠️ Tech Stack
