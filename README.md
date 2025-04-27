@@ -28,6 +28,10 @@ The project is deployed [![Live Demo](https://img.shields.io/badge/View-brightgr
 
 [Click here to view the Final Report (PDF)](https://github.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/blob/main/final%20report%20g3%20virtual.pdf)
 
+## Project Presentation
+
+[Click here to view the Project PPT](https://github.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/blob/main/GRoup%203%20ppt%20btech%20cse%20(1).pptx)
+
 ## 🛠️ Tech Stack
 
 - ⚛️ **React.js**
