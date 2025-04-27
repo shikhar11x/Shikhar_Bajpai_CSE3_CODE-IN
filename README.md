@@ -1,4 +1,4 @@
-# 🧠 CodeIN – Remote Interview Platform
+# 🧠 CodeIN – Virtual Coding Interview Platform 
 
 > **KR Mangalam University**  
 > **Second Year Project**
@@ -41,7 +41,7 @@ The project is deployed [![Live Demo](https://img.shields.io/badge/View-brightgr
 
 ## 📌 About the Project
 
-**CodeIN** is a remote interview platform that enables live coding interviews with features like collaborative code editing, real-time chat, and video conferencing. Built to simulate real-world tech interviews, CodeIN bridges the gap between candidates and companies.
+**CodeIN** is a virtual coding interview platform  that enables live coding interviews with features like collaborative code editing, real-time chat, and video conferencing. Built to simulate real-world tech interviews, CodeIN bridges the gap between candidates and companies.
 
 ---
 
