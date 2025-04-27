@@ -24,6 +24,9 @@
 
 The project is deployed [![Live Demo](https://img.shields.io/badge/View-brightgreen)](https://2nd-year-project-9w3s.vercel.app/)
 
+## Final Report
+
+[Click here to view the Final Report (PDF)](https://github.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/blob/main/final%20report%20g3%20virtual.pdf)
 
 ## 🛠️ Tech Stack
 
