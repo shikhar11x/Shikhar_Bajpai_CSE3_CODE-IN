@@ -12,7 +12,6 @@
 - **Kumud Rathi**  
 
 ---
----
 ## Deployment
 
 The project is deployed [![Live Demo](https://img.shields.io/badge/CLICK-HERE-brightgreen)](https://2nd-year-project-9w3s.vercel.app/)
