@@ -9,7 +9,7 @@
 
 - **Shikhar Bajpai** 
 - **Priyanshu Tomar**
-- - **Kumud Rathi**  
+- **Kumud Rathi**  
 
 ---
 ---
