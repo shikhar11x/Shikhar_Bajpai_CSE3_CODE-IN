@@ -7,34 +7,15 @@
 
 ## 👨‍👩‍👦‍👦 Team Members
 
-- **Shikhar Bajpai** – Roll No: 2301010188  
-- **Priyanshu Tomar** – Roll No: 2301010162  
-- **Kumud Rathi** – Roll No: 2301010161  
-- **Ram Ratan Sah** – Roll No: 2301010153  
+- **Shikhar Bajpai** 
+- **Priyanshu Tomar**
+- - **Kumud Rathi**  
 
 ---
-
-## 🎓 Mentors
-
-- **Faculty Mentor:** Mr. Amit  
-- **Industry Mentor:** Ms. Mansi Parihar  
-
 ---
 ## Deployment
 
 The project is deployed [![Live Demo](https://img.shields.io/badge/CLICK-HERE-brightgreen)](https://2nd-year-project-9w3s.vercel.app/)
-
-## Certificate
-
-[Click here to view the Deployment Certificate](https://github.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/blob/main/Deployment%20Certificate%20G3.pdf%20(1).pdf)
-
-## Final Report
-
-[Click here to view the Final Report (PDF)](https://github.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/blob/main/final%20report%20g3%20virtual.pdf)
-
-## Project Presentation
-
-[Click here to view the Project PPT](https://github.com/shikhar11x/Shikhar_Bajpai_CSE3_CODE-IN/blob/main/GRoup%203%20ppt%20btech%20cse%20(1).pptx)
 
 ## 🛠️ Tech Stack
 
